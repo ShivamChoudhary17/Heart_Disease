@@ -1,6 +1,6 @@
 # Heart_Disease
 
-> - Table Of Content:
+> - ### Table Of Content:
   - DataSet Link
   - Details
   - Score on Diff. Model
