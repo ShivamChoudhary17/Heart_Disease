@@ -12,7 +12,7 @@
 > - ____________________________________________________________________________________________________________________________________________________________________________
 
 
-[DataSet](https://www.kaggle.com/ronitf/heart-disease-uci)
+ ### [DataSet](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 
 > - age: The person's age in years
@@ -45,7 +45,7 @@
 
 > - ____________________________________________________________________________________________________________________________________________________________________________
 
-> - Applying simple model without hypertuning
+> - ### Applying simple model without hypertuning
  - KNN - 0.8448387096774195
  - RandomForestClassifier = 0.8248387096774193
  - DecisionTreeClassifier = 0.7353763440860214
