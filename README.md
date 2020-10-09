@@ -1,4 +1,10 @@
 # Heart_Disease
+
+> - Table Of Content:
+  - DataSet Link
+  - Details
+  - Score on Diff. Model
+
 > -  __________________________________________________________________________________________________________________________________________________________________________
 
    ![Heart](https://www.pngfind.com/pngs/m/358-3584678_image-heart-diseases-clipart-hd-png-download.png)
@@ -37,6 +43,12 @@
 
 > - target: Heart disease (0 = no, 1 = yes)
 
+> - ____________________________________________________________________________________________________________________________________________________________________________
+
+> - Applying simple model without hypertuning
+ - KNN - 0.8448387096774195
+ - RandomForestClassifier = 0.8248387096774193
+ - DecisionTreeClassifier = 0.7353763440860214
 
 
 
